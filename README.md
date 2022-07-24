@@ -1,5 +1,7 @@
 # Operation_Systems Project
 
+App created by Ben Nathan Mehazri and Demi Gelfond
+
 Recepies app
 
 ![Project4-Recepies App](https://user-images.githubusercontent.com/93192407/180649352-3d555e67-fe22-4bf5-aad4-a544c5873742.JPG)
